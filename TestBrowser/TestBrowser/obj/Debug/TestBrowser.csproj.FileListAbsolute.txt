@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\bin\Debug\TestBrowser.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.Form1.resources
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\bin\Debug\TestBrowser.exe
+c:\users\administrator\documents\visual studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.exe

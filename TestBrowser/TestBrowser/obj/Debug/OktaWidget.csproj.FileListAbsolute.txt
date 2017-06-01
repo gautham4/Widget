@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\bin\Debug\TestBrowser.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\bin\Debug\TestBrowser.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\Okta.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\OktaWidget.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\TestBrowser.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\TestBrowser\TestBrowser\obj\Debug\OktaWidget.csprojResolveAssemblyReference.cache
